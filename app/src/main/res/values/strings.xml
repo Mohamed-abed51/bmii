@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">bmi</string>
+    <string name="button">Button</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+</resources>
