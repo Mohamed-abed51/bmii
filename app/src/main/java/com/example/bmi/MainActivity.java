@@ -14,7 +14,7 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
 
-    EditText etWeight, etHeight;
+    EditText etWeight, etHeight ;
     Button btnCalculate;
 
     @Override
